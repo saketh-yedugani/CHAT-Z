@@ -26,5 +26,7 @@ In the demo below, I ask:
 And CHAT "Z" replies **fully in Gen Z lingo**, staying informative but vibey.
 
 👉 **Watch the demo video here:**  
-https://github.com/saketh-yedugani/CHAT-Z/blob/main/GENZ_LLM(pic).png
+<p align="center">
+  <img src="GENZ_LLM(pic).png" width="700"/>
+</p>
 
