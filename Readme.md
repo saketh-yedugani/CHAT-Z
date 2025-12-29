@@ -1,4 +1,4 @@
-# 💬 CHAT "Z" — Gen Z AI Assistant (no cap)
+# 💬 CHAT "Z" Gen Z AI Assistant (no cap)
 
 CHAT "Z" is a **Gen Z–style AI chatbot** built with **LangChain + Streamlit + Ollama**.  
 It answers *any* question in **pure Gen Z lingo** casual, meme-ish, vibey, and lowkey helpful.
